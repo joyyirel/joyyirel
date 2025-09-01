@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joyrel!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyyirel&label=Profile%20views&color=0e75b6&style=flat" alt="joyyirel" /> </p>
 
-- 🌱 I’m currently learning **UX/UI specialization and Information System Development**
+- 🌱 I’m currently learning **UX/UI specialization and Front-End Development**
 - 📫 How to reach me **baladjayjoyrelg20@gmail.com**
 - ⚡ I'm a **GDG on Campus PH and UXPH volunteer**
 
