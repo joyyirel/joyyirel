@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **UX/UI specialization and Front-End Development**
 - 📫 How to reach me **baladjayjoyrelg20@gmail.com**
-- ⚡ I'm a **GDG on Campus PH and UXPH volunteer**
+- ⚡ I'm a **GDG on Campus PUP and UXPH volunteer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
