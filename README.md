@@ -1,4 +1,4 @@
-<p align="center">🌨️🌷</p>
+<p align="center">.・。.・゜✭ hi, i'm joyrel ^^ ・.・✫・゜・。. </p>
 
 ###
 
